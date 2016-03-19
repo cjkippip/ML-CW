@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.11.2)  8 FEB 2016 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.21)  20 FEB 2016 12:16
 entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
 **"ML assignment.tex"
-("ML assignment.tex"
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-(F:\miktex\tex\latex\base\article.cls
+(./ML assignment.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(F:\miktex\tex\latex\base\size10.clo
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,23 +23,25 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (F:\miktex\tex\latex\amsmath\amsmath.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
+
 For additional information on amsmath, use the `?' option.
-(F:\miktex\tex\latex\amsmath\amstext.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(F:\miktex\tex\latex\amsmath\amsgen.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(F:\miktex\tex\latex\amsmath\amsbsy.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(F:\miktex\tex\latex\amsmath\amsopn.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -77,94 +82,101 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(F:\miktex\tex\latex\amsfonts\amssymb.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(F:\miktex\tex\latex\amsfonts\amsfonts.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(F:\miktex\tex\latex\graphics\graphicx.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(F:\miktex\tex\latex\graphics\keyval.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(F:\miktex\tex\latex\graphics\graphics.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(F:\miktex\tex\latex\graphics\trig.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(F:\miktex\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: dvips.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-(F:\miktex\tex\latex\graphics\dvips.def
-File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
-) (F:\miktex\tex\latex\float\float.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count99
+\c@float@type=\count100
 \float@exts=\toks20
 \float@box=\box28
 \@float@everytoks=\toks21
 \@floatcapt=\box29
-) (F:\miktex\tex\latex\graphics\color.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-(F:\miktex\tex\latex\00miktex\color.cfg
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 142.
-
-(F:\miktex\tex\latex\graphics\dvipsnam.def
-File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
-))
-(F:\miktex\tex\latex\subfigure\subfigure.sty
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip46
 \subfigcapskip=\skip47
 \subfigcaptopadj=\dimen114
 \subfigbottomskip=\skip48
 \subfigcapmargin=\dimen115
 \subfiglabelskip=\skip49
-\c@subfigure=\count100
-\c@lofdepth=\count101
-\c@subtable=\count102
-\c@lotdepth=\count103
+\c@subfigure=\count101
+\c@lofdepth=\count102
+\c@subtable=\count103
+\c@lotdepth=\count104
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(F:\miktex\tex\latex\subfigure\subfigure.cfg)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
-(F:\miktex\tex\latex\geometry\geometry.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(F:\miktex\tex\generic\oberdiek\ifpdf.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(F:\miktex\tex\generic\oberdiek\ifvtex.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(F:\miktex\tex\generic\ifxetex\ifxetex.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count104
-\Gm@cntv=\count105
-\c@Gm@tempcnt=\count106
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
 \Gm@bindingoffset=\dimen116
 \Gm@wd@mp=\dimen117
 \Gm@odd@mp=\dimen118
@@ -174,8 +186,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen122
 \Gm@layoutvoffset=\dimen123
 \Gm@dimlist=\toks22
+)
+(./ML assignment.aux)
+\openout1 = `"ML assignment.aux"'.
 
-(F:\miktex\tex\latex\geometry\geometry.cfg)) ("ML assignment.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -189,23 +203,80 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box30
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
-* v-part:(T,H,B)=(2.84544pt, 735.21904pt, 56.9055pt)
+* v-part:(T,H,B)=(28.45274pt, 709.61174pt, 56.9055pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=500.484pt
-* \textheight=735.21904pt
+* \textheight=709.61174pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-106.42455pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -224,88 +295,352 @@ LaTeX Font Info:    ... okay on input line 12.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 13.
-(F:\miktex\tex\latex\amsfonts\umsa.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 13.
- (F:\miktex\tex\latex\amsfonts\umsb.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-File: image/1.eps Graphic file (type eps)
+Package epstopdf Info: Source file: <image/1.eps>
+(epstopdf)                    date: 2015-12-07 22:28:27
+(epstopdf)                    size: 84252 bytes
+(epstopdf)             Output file: <image/1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:32
+(epstopdf)                    size: 13878 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/1-eps-converted-to.p
+df image/1.eps>
+(epstopdf)             \includegraphics on input line 18.
+Package epstopdf Info: Output file is already uptodate.
 
-<image/1.eps>
-File: image/2.eps Graphic file (type eps)
- <image/2.eps>
-File: image/3.eps Graphic file (type eps)
- <image/3.eps>
-File: image/3A2.eps Graphic file (type eps)
- <image/3A2.eps>
-File: image/3A3.eps Graphic file (type eps)
- <image/3A3.eps>
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
+<image/1-eps-converted-to.pdf, id=1, 577.15625pt x 562.1pt>
+File: image/1-eps-converted-to.pdf Graphic file (type pdf)
 
-[1
+<use image/1-eps-converted-to.pdf>
+Package pdftex.def Info: image/1-eps-converted-to.pdf used on input line 18.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+Package epstopdf Info: Source file: <image/2.eps>
+(epstopdf)                    date: 2015-11-30 16:47:20
+(epstopdf)                    size: 1903842 bytes
+(epstopdf)             Output file: <image/2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:32
+(epstopdf)                    size: 154299 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/2-eps-converted-to.p
+df image/2.eps>
+(epstopdf)             \includegraphics on input line 20.
+Package epstopdf Info: Output file is already uptodate.
 
-]
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
-File: image/10.eps Graphic file (type eps)
- <image/10.eps>
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
-File: image/4.eps Graphic file (type eps)
- <image/4.eps>
-File: image/5.eps Graphic file (type eps)
- <image/5.eps> [2]
-File: image/6.eps Graphic file (type eps)
- <image/6.eps>
-File: image/7.eps Graphic file (type eps)
- <image/7.eps>
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
+<image/2-eps-converted-to.pdf, id=2, 577.15625pt x 562.1pt>
+File: image/2-eps-converted-to.pdf Graphic file (type pdf)
 
-[3]
-File: image/9.eps Graphic file (type eps)
- <image/9.eps>
-File: image/9command.eps Graphic file (type eps)
- <image/9command.eps>
-File: image/8.eps Graphic file (type eps)
- <image/8.eps>
-File: image/8command.eps Graphic file (type eps)
- <image/8command.eps>
-Missing character: There is no â in font cmbx10!
-Missing character: There is no € in font cmbx10!
-Missing character: There is no ¢ in font cmbx10!
+<use image/2-eps-converted-to.pdf>
+Package pdftex.def Info: image/2-eps-converted-to.pdf used on input line 20.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+Package epstopdf Info: Source file: <image/3.eps>
+(epstopdf)                    date: 2015-12-07 22:20:30
+(epstopdf)                    size: 867935 bytes
+(epstopdf)             Output file: <image/3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:33
+(epstopdf)                    size: 160482 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/3-eps-converted-to.p
+df image/3.eps>
+(epstopdf)             \includegraphics on input line 27.
+Package epstopdf Info: Output file is already uptodate.
 
-[4]
+<image/3-eps-converted-to.pdf, id=3, 577.15625pt x 562.1pt>
+File: image/3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/3-eps-converted-to.pdf>
+Package pdftex.def Info: image/3-eps-converted-to.pdf used on input line 27.
+(pdftex.def)             Requested size: 160.15854pt x 155.9803pt.
+Package epstopdf Info: Source file: <image/3A2.eps>
+(epstopdf)                    date: 2015-12-07 22:19:52
+(epstopdf)                    size: 867937 bytes
+(epstopdf)             Output file: <image/3A2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:33
+(epstopdf)                    size: 160088 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/3A2-eps-converted-to
+.pdf image/3A2.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/3A2-eps-converted-to.pdf, id=4, 577.15625pt x 562.1pt>
+File: image/3A2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/3A2-eps-converted-to.pdf>
+Package pdftex.def Info: image/3A2-eps-converted-to.pdf used on input line 29.
+(pdftex.def)             Requested size: 160.15854pt x 155.9803pt.
+Package epstopdf Info: Source file: <image/3A3.eps>
+(epstopdf)                    date: 2015-12-07 22:22:02
+(epstopdf)                    size: 867940 bytes
+(epstopdf)             Output file: <image/3A3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:34
+(epstopdf)                    size: 161198 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/3A3-eps-converted-to
+.pdf image/3A3.eps>
+(epstopdf)             \includegraphics on input line 31.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/3A3-eps-converted-to.pdf, id=5, 577.15625pt x 562.1pt>
+File: image/3A3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/3A3-eps-converted-to.pdf>
+Package pdftex.def Info: image/3A3-eps-converted-to.pdf used on input line 31.
+(pdftex.def)             Requested size: 160.15854pt x 155.9803pt.
 Missing character: There is no â in font cmbx10!
 Missing character: There is no € in font cmbx10!
 Missing character: There is no ¢ in font cmbx10!
-File: image/11.eps Graphic file (type eps)
- <image/11.eps>
-File: image/11command.eps Graphic file (type eps)
- <image/11command.eps> [5] ("ML assignment.aux") ) 
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+/1-eps-converted-to.pdf> <./image/2-eps-converted-to.pdf> <./image/3-eps-conver
+ted-to.pdf> <./image/3A2-eps-converted-to.pdf> <./image/3A3-eps-converted-to.pd
+f>]
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Package epstopdf Info: Source file: <image/10.eps>
+(epstopdf)                    date: 2015-11-30 16:42:21
+(epstopdf)                    size: 58120 bytes
+(epstopdf)             Output file: <image/10-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:34
+(epstopdf)                    size: 22949 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/10-eps-converted-to.
+pdf image/10.eps>
+(epstopdf)             \includegraphics on input line 50.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/10-eps-converted-to.pdf, id=53, 577.15625pt x 562.1pt>
+File: image/10-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/10-eps-converted-to.pdf>
+Package pdftex.def Info: image/10-eps-converted-to.pdf used on input line 50.
+(pdftex.def)             Requested size: 290.28163pt x 282.72182pt.
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Package epstopdf Info: Source file: <image/4.eps>
+(epstopdf)                    date: 2015-11-30 16:40:29
+(epstopdf)                    size: 40509 bytes
+(epstopdf)             Output file: <image/4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:35
+(epstopdf)                    size: 14601 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/4-eps-converted-to.p
+df image/4.eps>
+(epstopdf)             \includegraphics on input line 124.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/4-eps-converted-to.pdf, id=54, 577.15625pt x 562.1pt>
+File: image/4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/4-eps-converted-to.pdf>
+Package pdftex.def Info: image/4-eps-converted-to.pdf used on input line 124.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+Package epstopdf Info: Source file: <image/5.eps>
+(epstopdf)                    date: 2015-11-30 16:41:07
+(epstopdf)                    size: 40506 bytes
+(epstopdf)             Output file: <image/5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:35
+(epstopdf)                    size: 14667 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/5-eps-converted-to.p
+df image/5.eps>
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/5-eps-converted-to.pdf, id=55, 577.15625pt x 562.1pt>
+File: image/5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/5-eps-converted-to.pdf>
+Package pdftex.def Info: image/5-eps-converted-to.pdf used on input line 126.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+ [2 <./image/10-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <image/6.eps>
+(epstopdf)                    date: 2015-11-30 17:42:19
+(epstopdf)                    size: 41360 bytes
+(epstopdf)             Output file: <image/6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:36
+(epstopdf)                    size: 15700 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/6-eps-converted-to.p
+df image/6.eps>
+(epstopdf)             \includegraphics on input line 133.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/6-eps-converted-to.pdf, id=72, 577.15625pt x 562.1pt>
+File: image/6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/6-eps-converted-to.pdf>
+Package pdftex.def Info: image/6-eps-converted-to.pdf used on input line 133.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+Package epstopdf Info: Source file: <image/7.eps>
+(epstopdf)                    date: 2015-11-30 17:42:52
+(epstopdf)                    size: 39979 bytes
+(epstopdf)             Output file: <image/7-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:36
+(epstopdf)                    size: 14885 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/7-eps-converted-to.p
+df image/7.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/7-eps-converted-to.pdf, id=73, 577.15625pt x 562.1pt>
+File: image/7-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/7-eps-converted-to.pdf>
+Package pdftex.def Info: image/7-eps-converted-to.pdf used on input line 135.
+(pdftex.def)             Requested size: 215.20444pt x 209.59479pt.
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+ [3 <./image/4-eps-converted-to.pdf> <./image/5-eps-converted-to.pdf> <./image/
+6-eps-converted-to.pdf> <./image/7-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <image/9.eps>
+(epstopdf)                    date: 2015-11-30 19:57:29
+(epstopdf)                    size: 21015 bytes
+(epstopdf)             Output file: <image/9-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:36
+(epstopdf)                    size: 8432 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/9-eps-converted-to.p
+df image/9.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+ <image/9-eps-converted-to.pdf, id=109, 577.15625pt x 562.1pt>
+File: image/9-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/9-eps-converted-to.pdf>
+Package pdftex.def Info: image/9-eps-converted-to.pdf used on input line 145.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+Package epstopdf Info: Source file: <image/9command.eps>
+(epstopdf)                    date: 2015-12-10 16:14:11
+(epstopdf)                    size: 33035 bytes
+(epstopdf)             Output file: <image/9command-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:37
+(epstopdf)                    size: 8404 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/9command-eps-convert
+ed-to.pdf image/9command.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/9command-eps-converted-to.pdf, id=110, 577.15625pt x 562.1pt>
+File: image/9command-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/9command-eps-converted-to.pdf>
+Package pdftex.def Info: image/9command-eps-converted-to.pdf used on input line
+ 147.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+Package epstopdf Info: Source file: <image/8.eps>
+(epstopdf)                    date: 2015-11-30 18:05:03
+(epstopdf)                    size: 19650 bytes
+(epstopdf)             Output file: <image/8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:37
+(epstopdf)                    size: 8353 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/8-eps-converted-to.p
+df image/8.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/8-eps-converted-to.pdf, id=111, 577.15625pt x 562.1pt>
+File: image/8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/8-eps-converted-to.pdf>
+Package pdftex.def Info: image/8-eps-converted-to.pdf used on input line 153.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+Package epstopdf Info: Source file: <image/8command.eps>
+(epstopdf)                    date: 2015-12-10 16:13:46
+(epstopdf)                    size: 33026 bytes
+(epstopdf)             Output file: <image/8command-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:37
+(epstopdf)                    size: 8334 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/8command-eps-convert
+ed-to.pdf image/8command.eps>
+(epstopdf)             \includegraphics on input line 155.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/8command-eps-converted-to.pdf, id=112, 577.15625pt x 562.1pt>
+File: image/8command-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/8command-eps-converted-to.pdf>
+Package pdftex.def Info: image/8command-eps-converted-to.pdf used on input line
+ 155.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+ [4 <./image/9-eps-converted-to.pdf> <./image/9command-eps-converted-to.pdf> <.
+/image/8-eps-converted-to.pdf> <./image/8command-eps-converted-to.pdf>]
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ¢ in font cmbx10!
+Package epstopdf Info: Source file: <image/11.eps>
+(epstopdf)                    date: 2015-12-10 20:48:34
+(epstopdf)                    size: 20502 bytes
+(epstopdf)             Output file: <image/11-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:38
+(epstopdf)                    size: 8943 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/11-eps-converted-to.
+pdf image/11.eps>
+(epstopdf)             \includegraphics on input line 164.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/11-eps-converted-to.pdf, id=138, 577.15625pt x 562.1pt>
+File: image/11-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/11-eps-converted-to.pdf>
+Package pdftex.def Info: image/11-eps-converted-to.pdf used on input line 164.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+Package epstopdf Info: Source file: <image/11command.eps>
+(epstopdf)                    date: 2015-12-10 20:50:39
+(epstopdf)                    size: 32383 bytes
+(epstopdf)             Output file: <image/11command-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-01 15:42:38
+(epstopdf)                    size: 8601 bytes
+(epstopdf)             Command: <repstopdf --outfile=image/11command-eps-conver
+ted-to.pdf image/11command.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+<image/11command-eps-converted-to.pdf, id=139, 577.15625pt x 562.1pt>
+File: image/11command-eps-converted-to.pdf Graphic file (type pdf)
+
+<use image/11command-eps-converted-to.pdf>
+Package pdftex.def Info: image/11command-eps-converted-to.pdf used on input lin
+e 166.
+(pdftex.def)             Requested size: 225.21626pt x 219.3382pt.
+ [5 <./image/11-eps-converted-to.pdf> <./image/11command-eps-converted-to.pdf>]
+ (./ML assignment.aux) ) 
 Here is how much of TeX's memory you used:
- 2368 strings out of 493674
- 28982 string characters out of 3151290
- 95382 words of memory out of 3000000
- 5684 multiletter control sequences out of 15000+200000
- 11196 words of font info for 44 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 27i,8n,26p,634b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 3199 strings out of 493089
+ 44656 string characters out of 6134841
+ 115846 words of memory out of 5000000
+ 6616 multiletter control sequences out of 15000+600000
+ 11196 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,8n,26p,634b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb>
+Output written on "ML assignment.pdf" (5 pages, 860109 bytes).
+PDF statistics:
+ 191 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on "ML assignment.dvi" (5 pages, 10516 bytes).
